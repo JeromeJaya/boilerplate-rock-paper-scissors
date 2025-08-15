@@ -64,3 +64,4 @@ def player(prev_play, opponent_history=[], my_history=[], fallback_count=[0]):
     move = counter_move(predicted)
     player.last_move = move
     return move
+#hi
